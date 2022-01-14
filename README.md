@@ -1,2 +1,2 @@
 # git_DAP
- 
+In this project, EU/EAA Covid data analysis is performed and provided insights from it. The Covid-19 virusis evolving with numerous variant names, with Omicron beinthe most recent. It is important to get the characteristics of how the variant is spreading, the rate of vaccination and otherattributes like recovery and deaths. In the analysis, we have designed a process flow where data is obtained from EU/EAACovid website.We have used AWS cloud resources,MongoDB atlascluster and python programming language for data cleaning ,preprocessing and visualization
